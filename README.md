@@ -1,1 +1,1 @@
-# Dashboard
+git clone <repository-url>
